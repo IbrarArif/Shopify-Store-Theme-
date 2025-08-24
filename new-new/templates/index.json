@@ -1,0 +1,854 @@
+{
+  "sections": {
+    "slideshow_kYdCz6": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_qFKRwn": {
+          "type": "slide",
+          "settings": {
+            "caption": "Smile Ease",
+            "block_cap_size": 20,
+            "cap_color": "#7069bc",
+            "heading": "<strong>Hello How are you",
+            "block_head_size-2": 50,
+            "block_head_size-mobile": 26,
+            "block_head_line": 1.4,
+            "heading_size": "h1",
+            "subheading": "Turn Heads with Your Dazzling White Smile.",
+            "button_label": "Meet Smile",
+            "link": "shopify:\/\/collections\/teeth",
+            "link-2": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center",
+            "mobile_box_align": "flex-end",
+            "mobile_text_spacing": 0
+          }
+        }
+      },
+      "block_order": [
+        "slide_qFKRwn"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "banner_border": 0,
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "hide_navigation": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "603436e4-5191-4f86-900e-e1f4394d19f9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21507967058232__603436e4-5191-4f86-900e-e1f4394d19f9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "AS SEEN ON",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507967058232__603436e4-5191-4f86-900e-e1f4394d19f9-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "9d5bf8e8-7f0a-4b0f-8b9c-3bcc507f8d1e": {
+      "type": "brands",
+      "blocks": {
+        "e70f88b5-d52b-49b1-977f-2605179cbce5": {
+          "type": "image",
+          "settings": {
+            "logo_image_width": 100
+          }
+        },
+        "b144b07a-c72d-40ee-954f-2d83a707ac98": {
+          "type": "image",
+          "settings": {
+            "logo_image_width": 98
+          }
+        },
+        "87140f6c-1fb6-4ada-be62-2d53c3049b22": {
+          "type": "image",
+          "settings": {
+            "logo_image_width": 94
+          }
+        },
+        "8c4cd83d-00b1-448b-acc2-c8bcac4a288a": {
+          "type": "image",
+          "settings": {
+            "logo_image_width": 96
+          }
+        },
+        "7a0f4495-4a47-4bc7-be7a-4969c60db806": {
+          "type": "image",
+          "settings": {
+            "logo_image_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "e70f88b5-d52b-49b1-977f-2605179cbce5",
+        "b144b07a-c72d-40ee-954f-2d83a707ac98",
+        "87140f6c-1fb6-4ada-be62-2d53c3049b22",
+        "8c4cd83d-00b1-448b-acc2-c8bcac4a288a",
+        "7a0f4495-4a47-4bc7-be7a-4969c60db806"
+      ],
+      "settings": {
+        "scroll_speed": 100,
+        "fade": false,
+        "color_scheme": "background-1",
+        "padding_desktop": 4,
+        "padding_mobile": 4,
+        "padding_item_desktop": 36,
+        "padding_item_mobile": 24,
+        "padding_top": 12,
+        "padding_bottom": 24
+      }
+    },
+    "lumin_pro_7ChmDy": {
+      "type": "lumin-pro",
+      "blocks": {
+        "feature_text_eUd9N4": {
+          "type": "feature-text",
+          "settings": {
+            "text": "<em>★★★★★<\/em> Excellent <strong>4.8\/5 Rated<\/strong>",
+            "font_size": 14,
+            "text_bg": "#eeecff",
+            "italic_text": "#ffa600",
+            "bold_text": "#7069bc",
+            "border": "#7069bc"
+          }
+        },
+        "heading_tP9hhg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Say Goodbye to Stains! Discover Our Teeth Whitening Toothpaste",
+            "heading_size": "h1"
+          }
+        },
+        "text_hLB8DN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_93gayM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get This Offer now",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        },
+        "testimonial_images_3Atwk3": {
+          "type": "testimonial-images",
+          "settings": {
+            "image_size": 1,
+            "image_space": -14,
+            "hide_img_2": false,
+            "hide_img_3": false,
+            "hide_img_4": false,
+            "hide_img_5": false,
+            "text": "<p><strong>4.9\/5 Rated by 13567+<br\/>Customers<\/strong><\/p>",
+            "text_size": 13,
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "feature_text_eUd9N4",
+        "heading_tP9hhg",
+        "text_hLB8DN",
+        "button_93gayM",
+        "testimonial_images_3Atwk3"
+      ],
+      "settings": {
+        "color_scheme_main": "scheme-15ab6c1a-5144-4b7d-a402-482fa31b8c04",
+        "full-width": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "margin_top": 0,
+        "margin_bottom": 36,
+        "padding_top": 52,
+        "padding_bottom": 36
+      }
+    },
+    "b390ecbd-0a93-415a-8067-764192de1929": {
+      "type": "lumin-grids",
+      "blocks": {
+        "3d9b758f-2a56-4a59-8f41-ebcc8f3eb10f": {
+          "type": "text",
+          "settings": {
+            "large_up_hide": false,
+            "grid_width_desktop": "100",
+            "medium_hide": false,
+            "grid_width_tablet": "100",
+            "small_hide": false,
+            "show_border": false,
+            "border_color": "#eeeeee",
+            "padding_size": 15,
+            "padding_size_mobile": 10,
+            "padding_left_mobile": 10,
+            "text_border": 0,
+            "bg_color": "rgba(0,0,0,0)",
+            "icon_size": 25,
+            "icon_corner": 0,
+            "head": "POPULAR PRODUCTS",
+            "use_body_font": false,
+            "head_color": "#2e2a39",
+            "head_size_d": 20,
+            "head_size_m": 20,
+            "margin_bottom": 5,
+            "subtitle": "",
+            "text_color": "#212121",
+            "text_size_d": 32,
+            "text_size_m": 20,
+            "button-text": "",
+            "show_secondary": false,
+            "button_link": "",
+            "image_content_position": "middle-center",
+            "desktop_content_alignment": "center",
+            "grid-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "3d9b758f-2a56-4a59-8f41-ebcc8f3eb10f"
+      ],
+      "settings": {
+        "video_border": 0,
+        "zoom_hover": true,
+        "loading_color": "#f2f2f2",
+        "grid_gap": 8,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "margin_top": 36,
+        "margin_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "description": "",
+        "collection_text_alignment": "center",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "show_collection_image": true,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "navigation_on_desk": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_no_crop": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_scroll_tags": false,
+        "enable_quick_desc": false,
+        "quick_desc_legth": 90,
+        "quick_desc_size": 14,
+        "enable_quick_add": false,
+        "show_secondary_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "navigation_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "1b0faa36-b588-4d85-97c5-48f2ef436ebf": {
+      "type": "lumin-grids",
+      "blocks": {
+        "template--21429271691555__1b0faa36-b588-4d85-97c5-48f2ef436ebf-text-1": {
+          "type": "text",
+          "settings": {
+            "large_up_hide": false,
+            "grid_width_desktop": "100",
+            "medium_hide": false,
+            "grid_width_tablet": "100",
+            "small_hide": false,
+            "show_border": false,
+            "border_color": "#eeeeee",
+            "padding_size": 0,
+            "padding_size_mobile": 10,
+            "padding_left_mobile": 10,
+            "text_border": 0,
+            "bg_color": "rgba(0,0,0,0)",
+            "icon_size": 25,
+            "icon_corner": 0,
+            "head": "I've tried so many SmileEase products and my teeth has never been brighter & cleaner! These products are designed to promote teeth whitening products and services, highlighting the benefits of a brighter smile.",
+            "use_body_font": false,
+            "head_color": "#2e2a39",
+            "head_size_d": 24,
+            "head_size_m": 20,
+            "margin_bottom": 30,
+            "subtitle": "",
+            "text_color": "#212121",
+            "text_size_d": 32,
+            "text_size_m": 14,
+            "button-text": "",
+            "show_secondary": false,
+            "button_link": "",
+            "image_content_position": "middle-left",
+            "desktop_content_alignment": "left",
+            "grid-url": ""
+          }
+        },
+        "45ba44b3-2512-47a0-8bce-dd7c7d962b7e": {
+          "type": "image",
+          "settings": {
+            "large_up_hide": false,
+            "grid_width_desktop": "50",
+            "medium_hide": false,
+            "grid_width_tablet": "33.3333333",
+            "small_hide": false,
+            "overlay_opacity": 0,
+            "opacity_color": "#000000",
+            "opacity_color_full": false,
+            "padding_size": 15,
+            "padding_size_in": 10,
+            "text_border": 0,
+            "bg_color": "rgba(0,0,0,0)",
+            "head": "Long-lasting Results",
+            "head_color": "#ffffff",
+            "head_size_d": 30,
+            "head_size_m": 24,
+            "margin_bottom": 15,
+            "text": "V34 can significantly reduce hair growth, leading to long-term hair removal results.",
+            "text_color": "#ffffff",
+            "text_size_d": 16,
+            "text_size_m": 14,
+            "button-text": "button",
+            "button_link": "",
+            "desktop_content_alignment": "left",
+            "image_content_position": "bottom-left",
+            "grid-url": ""
+          }
+        },
+        "74817858-dc12-4489-a021-202762b23a32": {
+          "type": "text",
+          "settings": {
+            "large_up_hide": false,
+            "grid_width_desktop": "25",
+            "medium_hide": false,
+            "grid_width_tablet": "25",
+            "small_hide": false,
+            "show_border": false,
+            "border_color": "#eeeeee",
+            "padding_size": 30,
+            "padding_size_mobile": 10,
+            "padding_left_mobile": 10,
+            "text_border": 0,
+            "bg_color": "#f6f6f6",
+            "icon_size": 25,
+            "icon_corner": 0,
+            "head": "Benefits and Features",
+            "use_body_font": false,
+            "head_color": "#212121",
+            "head_size_d": 30,
+            "head_size_m": 24,
+            "margin_bottom": 15,
+            "subtitle": "",
+            "text_color": "#212121",
+            "text_size_d": 16,
+            "text_size_m": 14,
+            "button-text": "Shop Collection",
+            "show_secondary": false,
+            "button_link": "shopify:\/\/collections\/teeth",
+            "image_content_position": "middle-center",
+            "desktop_content_alignment": "left",
+            "grid-url": ""
+          }
+        },
+        "37001da9-3095-421e-97c1-fea1b1dd71bb": {
+          "type": "image",
+          "settings": {
+            "large_up_hide": false,
+            "grid_width_desktop": "25",
+            "medium_hide": false,
+            "grid_width_tablet": "25",
+            "small_hide": false,
+            "overlay_opacity": 0,
+            "opacity_color": "#000000",
+            "opacity_color_full": false,
+            "padding_size": 10,
+            "padding_size_in": 10,
+            "text_border": 0,
+            "bg_color": "rgba(0,0,0,0)",
+            "head": "Say Hello to a Whiter Tomorrow",
+            "head_color": "#ffffff",
+            "head_size_d": 24,
+            "head_size_m": 20,
+            "margin_bottom": 15,
+            "text": "",
+            "text_color": "#212121",
+            "text_size_d": 16,
+            "text_size_m": 14,
+            "button-text": "button",
+            "button_link": "",
+            "desktop_content_alignment": "left",
+            "image_content_position": "bottom-left",
+            "grid-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21429271691555__1b0faa36-b588-4d85-97c5-48f2ef436ebf-text-1",
+        "45ba44b3-2512-47a0-8bce-dd7c7d962b7e",
+        "74817858-dc12-4489-a021-202762b23a32",
+        "37001da9-3095-421e-97c1-fea1b1dd71bb"
+      ],
+      "settings": {
+        "video_border": 8,
+        "zoom_hover": true,
+        "loading_color": "#f2f2f2",
+        "grid_gap": 18,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "margin_top": 36,
+        "margin_bottom": 40
+      }
+    },
+    "video_with_text_9HWiaH": {
+      "type": "video-with-text",
+      "settings": {
+        "layout": "full_bleed",
+        "video_border": 0,
+        "video_height": "medium",
+        "image_overlay_opacity": 0,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "video_content_border": 0,
+        "mobile_content_position": "middle",
+        "color_scheme": "background-2",
+        "desktop_content_alignment": "left",
+        "heading": "Video banner",
+        "heading_size": "h1",
+        "text": "Use a high-quality <strong>video<\/strong> that showcases your product or service in action. Visual content can help visitors understand what you're offering and create a strong first impression.",
+        "button_label_1": "Call To Action",
+        "button_link_1": "shopify:\/\/collections\/teeth",
+        "button_style_secondary_1": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c18aac23-6734-44b2-9bac-a12c89451461": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Product Reviews and Ratings",
+            "heading_size": "h1"
+          }
+        },
+        "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Display customer reviews and ratings to highlight the experiences of previous buyers. Make sure to include star ratings, written reviews, and the option for visitors to leave their feedback.<\/p>"
+          }
+        },
+        "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-heading-1",
+        "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-text-1",
+        "template--20863348703538__c18aac23-6734-44b2-9bac-a12c89451461-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 0
+      }
+    },
+    "bf186cde-72f3-4dc5-a0f4-8364db7d2e39": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21429271691555__bf186cde-72f3-4dc5-a0f4-8364db7d2e39-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "★★★★★",
+            "text": "<p> Add details on availability, style, or even provide a review.<\/p><p><strong>Name S. - City<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fc42b2c9-a982-42d4-ba0d-abcf7532f42b": {
+          "type": "column",
+          "settings": {
+            "title": "★★★★★",
+            "text": "<p> Add details on availability, style, or even provide a review.<\/p><p><strong>Name S. - City<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dea1d95f-d60b-4853-9ed6-f08506814c25": {
+          "type": "column",
+          "settings": {
+            "title": "★★★★★",
+            "text": "<p> Add details on availability, style, or even provide a review.<\/p><p><strong>Name S. - City<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "883dfbe4-cc56-4bdd-bc75-de95e4a6706a": {
+          "type": "column",
+          "settings": {
+            "title": "★★★★★",
+            "text": "<p>Add details on availability, style, or even provide a review.<\/p><p><strong>Name S. - City<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21429271691555__bf186cde-72f3-4dc5-a0f4-8364db7d2e39-column-1",
+        "fc42b2c9-a982-42d4-ba0d-abcf7532f42b",
+        "dea1d95f-d60b-4853-9ed6-f08506814c25",
+        "883dfbe4-cc56-4bdd-bc75-de95e4a6706a"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "heading_center": "left",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "navigation_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 80
+      }
+    },
+    "image_comparison_478zrR": {
+      "type": "image-comparison",
+      "blocks": {
+        "text_9p8QrU": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "heading": "Image comparison",
+            "content": "<p>See the stunning transformations our products deliver — real results from real customers.<\/p>",
+            "text_position": "center",
+            "color": "#000000"
+          }
+        },
+        "images_PN3i4B": {
+          "type": "images",
+          "settings": {
+            "desktop_height": 500,
+            "mobile_height": 500,
+            "border_radius": 12,
+            "drag_initial_position": 50,
+            "cover": true,
+            "before_text": "Before",
+            "after_text": "After",
+            "before_after_text_position": "bottom",
+            "before_text_color": "#ffffff",
+            "after_text_color": "#ffffff",
+            "drag_cursor_bg": "#ffffff",
+            "drag_cursor_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_9p8QrU",
+        "images_PN3i4B"
+      ],
+      "settings": {
+        "background_color": "rgba(0,0,0,0)",
+        "background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6b53f861-3aae-4cc4-a699-aca63db5c942": {
+      "type": "timer",
+      "settings": {
+        "color_scheme": "inverse",
+        "layout": "grid",
+        "show_border": false,
+        "video_border": 6,
+        "first_text": "Wait for our...",
+        "third_text": "Just few days away",
+        "small_text": 16,
+        "small_text_mb": 16,
+        "second_text": "NEXT DROP",
+        "big_text": 28,
+        "big_text_mb": 16,
+        "url": "#",
+        "timer": "10\/31\/2025 23:20",
+        "timer_days": "D",
+        "timer_text": 16,
+        "timer_text_mb": 16,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "margin_top": 32,
+        "margin_bottom": 32
+      }
+    },
+    "a7d4fe91-77ab-4945-a1c2-47c4d80645ab": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "POPULAR POSTS",
+        "heading_size": "h2",
+        "collection_text_alignment": "left",
+        "blog": "",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "navigation_show": false,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9a82e240-da8d-4d1d-bfca-0870911a230f": {
+      "type": "lumin-grids",
+      "blocks": {
+        "template--21429271691555__9a82e240-da8d-4d1d-bfca-0870911a230f-image-1": {
+          "type": "image",
+          "settings": {
+            "large_up_hide": false,
+            "grid_width_desktop": "50",
+            "medium_hide": false,
+            "grid_width_tablet": "50",
+            "small_hide": false,
+            "overlay_opacity": 0,
+            "opacity_color": "#000000",
+            "opacity_color_full": false,
+            "padding_size": 30,
+            "padding_size_in": 10,
+            "text_border": 0,
+            "bg_color": "rgba(0,0,0,0)",
+            "head": "Winter Sale",
+            "head_color": "#ffffff",
+            "head_size_d": 50,
+            "head_size_m": 36,
+            "margin_bottom": 15,
+            "text": "Save Upto 40%",
+            "text_color": "#ffffff",
+            "text_size_d": 20,
+            "text_size_m": 18,
+            "button-text": "Shop Sale Now",
+            "button_link": "shopify:\/\/collections\/teeth",
+            "desktop_content_alignment": "left",
+            "image_content_position": "bottom-left",
+            "grid-url": ""
+          }
+        },
+        "f19c59b3-7899-4a8e-9428-f0fb5d1e45a3": {
+          "type": "image",
+          "settings": {
+            "large_up_hide": false,
+            "grid_width_desktop": "50",
+            "medium_hide": false,
+            "grid_width_tablet": "50",
+            "small_hide": false,
+            "overlay_opacity": 0,
+            "opacity_color": "#000000",
+            "opacity_color_full": false,
+            "padding_size": 30,
+            "padding_size_in": 10,
+            "text_border": 0,
+            "bg_color": "rgba(0,0,0,0)",
+            "head": "Bundle & Save",
+            "head_color": "#ffffff",
+            "head_size_d": 50,
+            "head_size_m": 36,
+            "margin_bottom": 15,
+            "text": "Save Upto 70%",
+            "text_color": "#ffffff",
+            "text_size_d": 20,
+            "text_size_m": 18,
+            "button-text": "Shop Bundle",
+            "button_link": "shopify:\/\/collections\/teeth",
+            "desktop_content_alignment": "left",
+            "image_content_position": "bottom-left",
+            "grid-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21429271691555__9a82e240-da8d-4d1d-bfca-0870911a230f-image-1",
+        "f19c59b3-7899-4a8e-9428-f0fb5d1e45a3"
+      ],
+      "settings": {
+        "video_border": 8,
+        "zoom_hover": true,
+        "loading_color": "#f2f2f2",
+        "grid_gap": 16,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "margin_top": 36,
+        "margin_bottom": 36
+      }
+    },
+    "cdecd907-21d4-43b6-9a53-e009e5c178e8": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19498122641738__cdecd907-21d4-43b6-9a53-e009e5c178e8-slide-1": {
+          "type": "slide",
+          "settings": {
+            "caption": "",
+            "block_cap_size": 20,
+            "cap_color": "#222222",
+            "heading": "Need help?",
+            "block_head_size-2": 40,
+            "block_head_size-mobile": 30,
+            "block_head_line": 1.4,
+            "heading_size": "h0",
+            "subheading": "Offer multiple ways for visitors to contact you, such as a contact form, live chat, or customer support phone number.",
+            "button_label": "Contact Us",
+            "link": "shopify:\/\/pages\/contact",
+            "link-2": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center",
+            "mobile_box_align": "center",
+            "mobile_text_spacing": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--19498122641738__cdecd907-21d4-43b6-9a53-e009e5c178e8-slide-1"
+      ],
+      "settings": {
+        "layout": "grid",
+        "banner_border": 0,
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "hide_navigation": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "ea08ed87-464c-4738-8c61-5a06581e3730": {
+      "type": "custom-fonts",
+      "blocks": {
+        "33bcefd1-daf8-4048-846f-f5ddfb8a477f": {
+          "type": "image",
+          "settings": {
+            "name": "Giloy",
+            "custom_font_weight": "400",
+            "custom_font_style": "none",
+            "custom_font_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0839\/0370\/9486\/files\/Gilroy-Regular.ttf?v=1697134312",
+            "apply_h1": false,
+            "apply_h2": false,
+            "apply_h3": false,
+            "apply_h4": false,
+            "apply_h5": false,
+            "apply_h6": false,
+            "apply_span": true,
+            "apply_p": true,
+            "apply_custom": ""
+          }
+        },
+        "39c4ec2b-b5ba-4f8b-9a05-2172d5dafe2f": {
+          "type": "image",
+          "settings": {
+            "name": "Gothem",
+            "custom_font_weight": "500",
+            "custom_font_style": "normal",
+            "custom_font_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0839\/0370\/9486\/files\/GothamMedium.ttf?v=1697134401",
+            "apply_h1": true,
+            "apply_h2": true,
+            "apply_h3": true,
+            "apply_h4": true,
+            "apply_h5": true,
+            "apply_h6": true,
+            "apply_span": false,
+            "apply_p": false,
+            "apply_custom": ""
+          }
+        }
+      },
+      "block_order": [
+        "33bcefd1-daf8-4048-846f-f5ddfb8a477f",
+        "39c4ec2b-b5ba-4f8b-9a05-2172d5dafe2f"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_kYdCz6",
+    "603436e4-5191-4f86-900e-e1f4394d19f9",
+    "9d5bf8e8-7f0a-4b0f-8b9c-3bcc507f8d1e",
+    "lumin_pro_7ChmDy",
+    "b390ecbd-0a93-415a-8067-764192de1929",
+    "featured_collection",
+    "1b0faa36-b588-4d85-97c5-48f2ef436ebf",
+    "video_with_text_9HWiaH",
+    "c18aac23-6734-44b2-9bac-a12c89451461",
+    "bf186cde-72f3-4dc5-a0f4-8364db7d2e39",
+    "image_comparison_478zrR",
+    "6b53f861-3aae-4cc4-a699-aca63db5c942",
+    "a7d4fe91-77ab-4945-a1c2-47c4d80645ab",
+    "9a82e240-da8d-4d1d-bfca-0870911a230f",
+    "cdecd907-21d4-43b6-9a53-e009e5c178e8",
+    "ea08ed87-464c-4738-8c61-5a06581e3730"
+  ]
+}
