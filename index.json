@@ -449,7 +449,7 @@
       "settings": {
         "layout": "full_bleed",
         "video_border": 0,
-        "video": "NEW_THEME_PRODUCT_VIDEO",
+        // "video": "NEW_THEME_PRODUCT_VIDEO",
         "video_height": "medium",
         "image_overlay_opacity": 0,
         "desktop_content_position": "middle-center",
